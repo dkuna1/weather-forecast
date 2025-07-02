@@ -1,0 +1,6 @@
+PythonWeatherApp/
+├── app.py
+├── templates/       <-- Create this directory
+│   └── index.html   <-- Move your HTML file here
+├── venv/
+└── ...
